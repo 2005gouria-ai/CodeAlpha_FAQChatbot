@@ -1,0 +1,184 @@
+{
+  "topic": "CodeAlpha Artificial Intelligence Internship",
+  "faqs": [
+    {
+      "question": "What is the CodeAlpha internship?",
+      "variations": [
+        "tell me about the internship",
+        "what is codealpha internship program"
+      ],
+      "answer": "CodeAlpha offers remote internship programs where interns build real projects in domains such as Artificial Intelligence, Web Development, and Data Science."
+    },
+    {
+      "question": "How do I apply for the internship?",
+      "variations": [
+        "how to apply",
+        "application process",
+        "where do I register"
+      ],
+      "answer": "You apply through the CodeAlpha website (www.codealpha.tech) by filling in the online application form and choosing your domain."
+    },
+    {
+      "question": "Is the internship paid?",
+      "variations": [
+        "do you pay interns",
+        "is it a stipend internship",
+        "salary for internship"
+      ],
+      "answer": "The CodeAlpha internship is an unpaid, learning-focused program. You gain hands-on experience, a certificate, and project work for your portfolio."
+    },
+    {
+      "question": "Is the internship remote or on-site?",
+      "variations": [
+        "can I work from home",
+        "is it online",
+        "work from home internship"
+      ],
+      "answer": "The internship is fully remote and online, so you can complete it from anywhere on your own schedule."
+    },
+    {
+      "question": "What is the duration of the internship?",
+      "variations": [
+        "how long is the internship",
+        "internship duration",
+        "how many months"
+      ],
+      "answer": "The internship typically runs for one month, during which you complete the assigned tasks for your domain."
+    },
+    {
+      "question": "How many tasks do I need to complete?",
+      "variations": [
+        "minimum tasks required",
+        "how many projects",
+        "do I need to finish all tasks"
+      ],
+      "answer": "You must complete a minimum of two or three tasks out of the four listed for your domain. Submitting only one task is considered incomplete."
+    },
+    {
+      "question": "Will I get a certificate?",
+      "variations": [
+        "do I receive a certificate",
+        "completion certificate",
+        "certificate on finishing"
+      ],
+      "answer": "Yes. On successfully completing the required tasks you receive a QR-verified completion certificate, an internship offer letter, a unique ID certificate, and a letter of recommendation based on performance."
+    },
+    {
+      "question": "How do I submit my completed task?",
+      "variations": [
+        "where to upload my project",
+        "submission process",
+        "how to submit project"
+      ],
+      "answer": "You submit your completed task using the Submission Form shared in your respective WhatsApp group. Follow the instructions in that form carefully."
+    },
+    {
+      "question": "Where should I upload my source code?",
+      "variations": [
+        "where to put my code",
+        "github upload instructions",
+        "how to submit code on github"
+      ],
+      "answer": "Upload your complete source code to GitHub in a repository named 'CodeAlpha_ProjectName'. Include a README explaining how to run the project."
+    },
+    {
+      "question": "Do I need to post on LinkedIn?",
+      "variations": [
+        "linkedin requirement",
+        "do I have to share on linkedin",
+        "social media post"
+      ],
+      "answer": "Yes. You are asked to share your internship status on LinkedIn, tagging @CodeAlpha, and to post a short video explanation of your project with the GitHub repo link."
+    },
+    {
+      "question": "What is the Letter of Recommendation based on?",
+      "variations": [
+        "how is the recommendation letter decided",
+        "LOR criteria",
+        "letter of recommendation eligibility"
+      ],
+      "answer": "The Letter of Recommendation is based on your performance during the internship, including the quality of your submitted tasks."
+    },
+    {
+      "question": "What domains can I choose from?",
+      "variations": [
+        "available domains",
+        "which fields are offered",
+        "list of internship domains"
+      ],
+      "answer": "CodeAlpha offers several domains including Artificial Intelligence, Web Development, Data Science, Java Programming, Python Programming, and more."
+    },
+    {
+      "question": "What tools do I need for the AI tasks?",
+      "variations": [
+        "software required",
+        "what should I install",
+        "requirements for ai tasks"
+      ],
+      "answer": "For the AI domain you typically need Python, VS Code, Git, and libraries such as NLTK, scikit-learn, TensorFlow, and music21 depending on the task."
+    },
+    {
+      "question": "Can I use any programming language?",
+      "variations": [
+        "language allowed",
+        "must I use python",
+        "which language to code in"
+      ],
+      "answer": "For the Artificial Intelligence tasks, Python is recommended because the suggested libraries (NLTK, scikit-learn, TensorFlow, music21) are Python-based."
+    },
+    {
+      "question": "What if I get stuck on a task?",
+      "variations": [
+        "need help with task",
+        "stuck on project",
+        "support during internship"
+      ],
+      "answer": "You can reach out through the WhatsApp group or contact CodeAlpha support via WhatsApp at +91 9336576683 for guidance."
+    },
+    {
+      "question": "How do I contact CodeAlpha?",
+      "variations": [
+        "contact details",
+        "customer support number",
+        "how to reach codealpha"
+      ],
+      "answer": "You can contact CodeAlpha through their website www.codealpha.tech or via WhatsApp at +91 9336576683."
+    },
+    {
+      "question": "Is the internship certificate verifiable?",
+      "variations": [
+        "is certificate genuine",
+        "can employers verify certificate",
+        "qr verified certificate"
+      ],
+      "answer": "Yes. The completion certificate is QR-verified, so employers can scan the QR code to confirm its authenticity."
+    },
+    {
+      "question": "Do I get placement support?",
+      "variations": [
+        "job assistance",
+        "will you help me get a job",
+        "placement help"
+      ],
+      "answer": "Yes. CodeAlpha provides job opportunities and placement support as well as resume building support for interns."
+    },
+    {
+      "question": "Can I complete the internship at my own pace?",
+      "variations": [
+        "flexible timing",
+        "do I have deadlines",
+        "self paced internship"
+      ],
+      "answer": "The internship is self-paced and remote, but you must complete your tasks within the time frame mentioned in your offer letter."
+    },
+    {
+      "question": "What happens if I submit only one task?",
+      "variations": [
+        "only one task done",
+        "incomplete submission",
+        "is one task enough"
+      ],
+      "answer": "Submitting only one task is considered incomplete and the certificate will not be issued. Complete at least two or three tasks."
+    }
+  ]
+}
